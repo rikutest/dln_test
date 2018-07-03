@@ -109,7 +109,7 @@ You can [link](https://www.google.com) stuff like [this](https://www.facebook.co
 
 This is how you insert an image:
 
-![title of the image](Kirby.png)
+![title of the image](Kirby.png | height=200)
 
 
 
