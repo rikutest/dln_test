@@ -109,9 +109,11 @@ You can [link](https://www.google.com) stuff like [this](https://www.facebook.co
 
 This is how you insert an image:
 
-![title of the image](Kirby.png | height=200)
+![title of the image](Kirby.png)
 
+You need to use HTML code snippet to resize an image:
 
+<img src="Kirby.png" width=200 height=200/>
 
 
 
