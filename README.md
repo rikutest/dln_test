@@ -122,5 +122,4 @@ Testing conflict
 
 
 
-Now I am not a collaborator!
-
+Now I am not a collaborator
