@@ -117,4 +117,4 @@ You need to use HTML code snippet to resize an image:
 
 
 
-Testing conflicts
+Testing conflict
