@@ -115,5 +115,5 @@ You need to use HTML code snippet to resize an image:
 
 <img src="Kirby.png" width=200 height=200/>
 
-I'm just testing forking/pull request from a different account
+
 
